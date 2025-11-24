@@ -11,6 +11,11 @@
 5. **[documentation/conceptuelle/specification_ontologique.md](documentation/conceptuelle/specification_ontologique.md)** - Définition rigoureuse des éléments
 6. **[documentation/conceptuelle/lois_dynamiques.md](documentation/conceptuelle/lois_dynamiques.md)** - Règles internes du système
 7. **[documentation/conceptuelle/questions_ouvertes.md](documentation/conceptuelle/questions_ouvertes.md)** - Questions de recherche et choix conceptuels
+8. **[documentation/conceptuelle/complement_concepts.md](documentation/conceptuelle/complement_concepts.md)** - Compléments : exclusions, volume, analyse théorique du gaz
+9. **[documentation/conceptuelle/ontologie_fondamentale.md](documentation/conceptuelle/ontologie_fondamentale.md)** - Variables primitives, création des bulles, conservation du gaz
+10. **[documentation/conceptuelle/nature_gaz_champ_unifie.md](documentation/conceptuelle/nature_gaz_champ_unifie.md)** - Nature du gaz comme structure organisationnelle, champ unifié
+11. **[documentation/conceptuelle/exploration_nature_G.md](documentation/conceptuelle/exploration_nature_G.md)** - Exploration approfondie de G, invariant du bilan comptable
+12. **[documentation/conceptuelle/G_externe_et_analogie_quantique.md](documentation/conceptuelle/G_externe_et_analogie_quantique.md)** - G externe comme pression, analogie vide quantique
 
 ---
 
@@ -21,6 +26,18 @@
 - **Ontologie minimale** : [specification_ontologique.md](documentation/conceptuelle/specification_ontologique.md#1-la-bulle)
 - **Les trois éléments** : [synthèse_conceptuelle.md](documentation/conceptuelle/synthèse_conceptuelle.md#2-ontologie-minimale--ce-qui-existe-dans-le-modèle)
 - **Genèse de l'idée** : [synthèse_conceptuelle.md](documentation/conceptuelle/synthèse_conceptuelle.md#1-genèse-de-lidée--de-la-révolution-industrielle-à-la-mousse)
+- **Exclusions** : [complement_concepts.md](documentation/conceptuelle/complement_concepts.md#1-exclusions--pourquoi-certains-entités-ne-sont-pas-des-bulles)
+- **Volume et capacité d'action** : [complement_concepts.md](documentation/conceptuelle/complement_concepts.md#2-le-volume-comme-capacité-daction)
+- **Analyse théorique du gaz** : [complement_concepts.md](documentation/conceptuelle/complement_concepts.md#3-analyse-théorique-du-gaz--le-cas-des-personnes-morales)
+- **Variables primitives** : [ontologie_fondamentale.md](documentation/conceptuelle/ontologie_fondamentale.md#3-variables-encore-plus-fondamentales--les-champs-primitifs)
+- **Création des bulles** : [ontologie_fondamentale.md](documentation/conceptuelle/ontologie_fondamentale.md#2-le-processus-de-création-dune-bulle--redistribution-pas-création)
+- **Conservation du gaz** : [ontologie_fondamentale.md](documentation/conceptuelle/ontologie_fondamentale.md#1-principe-de-conservation-fondamentale--la-quantité-totale-de-gaz)
+- **Nature du gaz** : [nature_gaz_champ_unifie.md](documentation/conceptuelle/nature_gaz_champ_unifie.md#4-hypothèse-privilégiée--g-comme-structure-organisationnelle)
+- **Champ unifié** : [nature_gaz_champ_unifie.md](documentation/conceptuelle/nature_gaz_champ_unifie.md#5-le-champ-unifié-φ--ressources-et-structure)
+- **Exploration de G** : [exploration_nature_G.md](documentation/conceptuelle/exploration_nature_G.md#3-nouvelles-hypothèses-sur-la-nature-de-g)
+- **Invariant du bilan** : [exploration_nature_G.md](documentation/conceptuelle/exploration_nature_G.md#2-question-du-bilan-comptable--quest-ce-qui-est-invariant)
+- **G externe comme pression** : [G_externe_et_analogie_quantique.md](documentation/conceptuelle/G_externe_et_analogie_quantique.md#3-g-comme-pression-externe--quest-ce-que-cest)
+- **Analogie vide quantique** : [G_externe_et_analogie_quantique.md](documentation/conceptuelle/G_externe_et_analogie_quantique.md#2-analogie-avec-le-vide-quantique)
 
 ### Dynamiques et mécaniques
 

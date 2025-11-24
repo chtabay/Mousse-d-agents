@@ -47,6 +47,21 @@ Voir **[STRUCTURE.md](STRUCTURE.md)** pour une description détaillée de l'orga
 - **[Questions ouvertes](documentation/conceptuelle/questions_ouvertes.md)**  
   Liste structurée des points à approfondir et des choix conceptuels à faire dans les phases ultérieures.
 
+- **[Compléments conceptuels](documentation/conceptuelle/complement_concepts.md)**  
+  Précisions sur les exclusions (individus, familles), définition du volume comme capacité d'action, et analyse théorique du gaz depuis la théorie des champs.
+
+- **[Ontologie fondamentale](documentation/conceptuelle/ontologie_fondamentale.md)**  
+  Exploration approfondie des variables primitives, processus de création des bulles, conservation du gaz, et structure ontologique minimale.
+
+- **[Nature du gaz dans un champ unifié](documentation/conceptuelle/nature_gaz_champ_unifie.md)**  
+  Exploration de la nature du gaz comme structure organisationnelle, dualité ressources/structure, et champ unifié Φ = S + i·G.
+
+- **[Exploration approfondie de G](documentation/conceptuelle/exploration_nature_G.md)**  
+  Exploration de multiples hypothèses sur la nature de G, analyse de l'invariant du bilan comptable, et question de G externe.
+
+- **[G externe et analogie quantique](documentation/conceptuelle/G_externe_et_analogie_quantique.md)**  
+  G comme pression externe obligatoire, analogie substrat = vide quantique / bulles = particules, et réinterprétation complète du modèle.
+
 - **[Index](INDEX.md)**  
   Index complet de la documentation avec navigation par thème, niveau et objectif.
 
